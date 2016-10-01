@@ -1,0 +1,9 @@
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\bin\x64\Debug\ProjectorServer.exe.config
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\bin\x64\Debug\ProjectorServer.exe
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\bin\x64\Debug\ProjectorServer.pdb
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\ProjectorServer.csprojResolveAssemblyReference.cache
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\RoomAliveToolkit.ProjectorForm.resources
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\RoomAliveToolkit.ProjectorServerForm.resources
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\ProjectorServer.csproj.GenerateResource.Cache
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\ProjectorServer.exe
+E:\Ayo_KinectProject\RoomAliveToolkit-master\RoomAliveToolkit-master\ProCamCalibration\ProjectorServer\obj\x64\Debug\ProjectorServer.pdb
